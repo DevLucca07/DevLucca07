@@ -5,7 +5,7 @@ Estudando para me tornar um  Desenvovedor FullStack
 ------------------------
 
 Sou um desenvovvedor  de 18 anos apaixonado por Tecnologia  desde os 13. Adoro codificar  e  descobiri comom  resolver problemaas 
-profundos usando  Tecnologia. Meu foco princiapl é  o desenvolvimento Front-end  e  Back-end ,  fazendo  aplicaçõies que impactam a vida
+profundos usando  Tecnologia. Meu foco princiapl é  o desenvolvimento Front-end  e  Back-end ,  fazendo  aplicações que impactam na vida 
 de milhares de  usuários.
 
 * 🌍 Moro em São  Paulo
