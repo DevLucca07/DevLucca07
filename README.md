@@ -1,7 +1,7 @@
 Olá 👋 Meu nome é  Lucca Morgado
 ============================
 
-Desenvolvedor de Software Front-End
+Estudando para me tornar um  Desenvovedor FullStack 
 ------------------------
 
 Sou um desenvovvedor  de 18 anos apaixonado por Tecnologia  desde os 13. Adoro codificar  e  descobiri comom  resolver problemaas 
