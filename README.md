@@ -1,7 +1,7 @@
 Olá 👋 Meu nome é  Lucca Morgado
 ============================
 
-Estudando para me tornar um  Desenvolvedor Fullstack
+Estudando para me tornar um  Desenvolvedor Back-End
 -----------------------
 
 Sou um desenvolvedor  de 19 anos apaixonado por Tecnologia  desde os 13. Adoro codificar  e  descohbiri comom  resolverh problemaas
@@ -14,8 +14,9 @@ de milhares de  usuários.
 * 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas.
 * ⚡ Amo Praticar esportes.
 
-### Habilidades
+![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
+### Habilidades
 
  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
 
