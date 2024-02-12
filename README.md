@@ -14,7 +14,7 @@ de milhares de  usuários.
 * 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas.
 * ⚡ Amo Praticar esportes.
 
-![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLucca07&show_icons=true&theme=radical)
+![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLucca07&show_icons=true&theme=dark)
 
 ### Habilidades
 
