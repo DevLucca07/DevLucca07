@@ -5,7 +5,7 @@ Estudando para me tornar um  Desenvolvedor Back-End
 -----------------------
 
 Sou um desenvolvedor  de 19 anos apaixonado por Tecnologia  desde os 13. Adoro codificar  e  descohbiri comom  resolverh problemaas
-profundos usando  Tecnologia. Meu foco princiapl é  o desenvolvimento Front-end  e  Back-end ,  fazendo  aplicações que impactam na vida 
+profundos usando  Tecnologia. Meu foco princiapl é  o desenvolvimento e  Back-end ,  fazendo  aplicações que impactam na vida 
 de milhares de  usuários.
 
 * 🌍 Moro em São  Paulo
