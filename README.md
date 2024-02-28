@@ -12,7 +12,6 @@ de milhares de  usuários.
 * ✉️ Você pode entrar em contato comigo em [ l10912304@gmail.com ](mailto:l1091204@gmai.com)
 * 🧠 Estou aprendendo Python, e Framework Django.
 * 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas.
-* ⚡ Amo Praticar esportes.
 
 ![Lucca's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevLucca07&show_icons=true&theme=tokyonight)
 
